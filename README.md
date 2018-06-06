@@ -1,5 +1,3 @@
 # deinde
 
-Tool for handling semver releases
-
-- determine next tagged release from git history
+Tool for handling semver releases from Semantic Changelog and git.
